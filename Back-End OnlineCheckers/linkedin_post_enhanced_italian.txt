@@ -1,0 +1,49 @@
+🎮 **Presentazione Progetto: Online Checkers** 🎮
+
+Sono entusiasta di condividere il progetto finale che ho sviluppato con il mio team per il corso di Junior Java Developer di Generation Italy!
+
+**Online Checkers** è un'implementazione web del classico gioco della dama, che permette ai giocatori di divertirsi online da qualsiasi luogo. Il progetto dimostra le nostre competenze nello sviluppo full-stack.
+
+🛠️ **Tecnologie Utilizzate**:
+• **Backend**: Spring Boot con JPA per la persistenza dei dati
+• **Frontend**: Angular con Bootstrap per un design responsive
+• **Database**: MySQL ospitato su AWS RDS
+• **Deployment**: AWS EC2 per l'hosting dell'applicazione
+• **Controllo Versione**: GitHub per lo sviluppo collaborativo
+
+🔌 **Implementazione del Netcode e API REST**:
+Il nostro progetto presenta una robusta architettura client-server implementata attraverso API RESTful che gestisce l'intera esperienza di gioco:
+• **Gestione Sessioni di Gioco**: Endpoint REST per creare, unirsi e gestire le sessioni di gioco
+• **Sincronizzazione dello Stato**: Aggiornamenti in tempo reale dello stato del gioco tra i giocatori utilizzando richieste HTTP
+• **Validazione delle Mosse**: Validazione lato server di tutte le mosse dei giocatori per garantire il rispetto delle regole del gioco
+• **Data Transfer Objects (DTOs)**: Scambio efficiente di dati tra frontend e backend
+• **Gestione delle Eccezioni**: Gestione completa degli errori per un'esperienza di gioco fluida
+
+L'architettura REST consente di gestire efficacemente le sessioni di gioco, le mosse, la chat, la registrazione dei giocatori, la logica dell'avversario AI e le funzionalità di riavvio del gioco, tutto attraverso un'interfaccia API coerente e ben strutturata.
+
+🎲 **Funzionalità di Gioco**:
+• Partite multiplayer in tempo reale
+• Avversario AI con calcolo strategico delle mosse
+• Chat in-game per la comunicazione tra giocatori
+• Persistenza dello stato di gioco
+• Design responsive per desktop e mobile
+• Validazione delle mosse e applicazione delle regole di gioco
+• Funzionalità di reset del gioco
+
+La funzionalità multiplayer è implementata attraverso un meccanismo di polling dove il client controlla regolarmente gli aggiornamenti dello stato del gioco, mentre la modalità giocatore singolo sfrutta il nostro algoritmo AI personalizzato che valuta le potenziali mosse in base al valore strategico.
+
+Questo progetto rappresenta il culmine del nostro percorso di apprendimento presso Generation Italy, dove abbiamo applicato sia competenze tecniche che soft skills come lavoro di squadra, problem-solving e project management.
+
+👨‍💻 **Team di Sviluppo**:
+• Enzo Brancati
+• Domenico Farano
+• AnielloPio Pentangelo
+• Daniele Filareti (io)
+
+🔗 **Provalo tu stesso**: https://onlinecheckers.org
+
+Per qualsiasi domanda, segnalazione di bug o suggerimenti per lo sviluppo, sentiti libero di contattare qualsiasi membro del team tramite LinkedIn o attraverso le informazioni di contatto sul sito web.
+
+Vorrei esprimere la mia sincera gratitudine a Generation Italy per aver fornito questa preziosa opportunità di apprendimento e per la loro guida durante il corso. Le competenze e l'esperienza acquisite durante questo programma di Junior Java Developer sono state inestimabili per la mia crescita professionale.
+
+#JavaDevelopment #WebDevelopment #SpringBoot #Angular #AWS #GenerationItaly #ProjectShowcase #SoftwareDevelopment #Gaming #RESTfulAPI

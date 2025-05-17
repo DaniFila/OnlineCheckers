@@ -1,0 +1,37 @@
+🎮 **Project Showcase: Online Checkers** 🎮
+
+I'm excited to share the final project I developed with my team for the Junior Java Developer course at Generation Italy!
+
+**Online Checkers** is a web-based implementation of the classic checkers game, allowing players to enjoy matches online from anywhere. The project demonstrates our skills in full-stack development and cloud deployment.
+
+🛠️ **Technologies Used**:
+• **Backend**: Spring Boot with JPA for data persistence
+• **Frontend**: Angular with Bootstrap for responsive design
+• **Database**: MySQL hosted on AWS RDS
+• **Deployment**: AWS EC2 for hosting the application
+• **Version Control**: GitHub for collaborative development
+
+🎲 **Game Features**:
+• Real-time multiplayer matches
+• AI opponent with strategic move calculation
+• In-game chat for player communication
+• Game state persistence
+• Responsive design for desktop and mobile play
+• Move validation and game rules enforcement
+• Game reset functionality
+
+This project represents the culmination of our learning journey at Generation Italy, where we applied both technical skills and soft skills like teamwork, problem-solving, and project management.
+
+👨‍💻 **Development Team**:
+• Enzo Brancati
+• Domenico Farano
+• AnielloPio Pentangelo
+• Daniele Filareti (me)
+
+🔗 **Try it yourself**: https://onlinecheckers.org
+
+For any questions, bug reports, or development suggestions, feel free to contact any team member via LinkedIn or through the contact information on the website.
+
+I'd like to express my sincere gratitude to Generation Italy for providing this valuable learning opportunity and for their guidance throughout the course. The skills and experience gained during this Junior Java Developer program have been invaluable for my professional growth.
+
+#JavaDevelopment #WebDevelopment #SpringBoot #Angular #AWS #GenerationItaly #ProjectShowcase #SoftwareDevelopment #Gaming

@@ -1,0 +1,49 @@
+🎮 **Project Showcase: Online Checkers** 🎮
+
+I'm excited to share the final project I developed with my team for the Junior Java Developer course at Generation Italy!
+
+**Online Checkers** is a web-based implementation of the classic checkers game, allowing players to enjoy matches online from anywhere. The project demonstrates our skills in full-stack development and cloud deployment.
+
+🛠️ **Technologies Used**:
+• **Backend**: Spring Boot with JPA for data persistence
+• **Frontend**: Angular with Bootstrap for responsive design
+• **Database**: MySQL hosted on AWS RDS
+• **Deployment**: AWS EC2 for hosting the application
+• **Version Control**: GitHub for collaborative development
+
+🔌 **Netcode and REST API Implementation**:
+Our project features a robust client-server architecture implemented through RESTful APIs that manages the entire gaming experience:
+• **Game Session Management**: REST endpoints for creating, joining, and managing game sessions
+• **State Synchronization**: Real-time game state updates between players using HTTP requests
+• **Move Validation**: Server-side validation of all player moves to ensure game rule compliance
+• **Data Transfer Objects (DTOs)**: Efficient data exchange between frontend and backend
+• **Exception Handling**: Comprehensive error management for seamless gameplay experience
+
+The REST architecture effectively handles game sessions, moves, chat, player registration, AI opponent logic, and game restart functionality, all through a coherent and well-structured API interface.
+
+🎲 **Game Features**:
+• Real-time multiplayer matches
+• AI opponent with strategic move calculation
+• In-game chat for player communication
+• Game state persistence
+• Responsive design for desktop and mobile play
+• Move validation and game rules enforcement
+• Game reset functionality
+
+The multiplayer functionality is implemented through a polling mechanism where the client regularly checks for game state updates, while the single-player mode leverages our custom AI algorithm that evaluates potential moves based on strategic value.
+
+This project represents the culmination of our learning journey at Generation Italy, where we applied both technical skills and soft skills like teamwork, problem-solving, and project management.
+
+👨‍💻 **Development Team**:
+• Enzo Brancati
+• Domenico Farano
+• AnielloPio Pentangelo
+• Daniele Filareti (me)
+
+🔗 **Try it yourself**: https://onlinecheckers.org
+
+For any questions, bug reports, or development suggestions, feel free to contact any team member via LinkedIn or through the contact information on the website.
+
+I'd like to express my sincere gratitude to Generation Italy for providing this valuable learning opportunity and for their guidance throughout the course. The skills and experience gained during this Junior Java Developer program have been invaluable for my professional growth.
+
+#JavaDevelopment #WebDevelopment #SpringBoot #Angular #AWS #GenerationItaly #ProjectShowcase #SoftwareDevelopment #Gaming #RESTfulAPI
